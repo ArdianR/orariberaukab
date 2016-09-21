@@ -1,0 +1,14 @@
+{
+  "name": "gentelella",
+  "homepage": "https://github.com/puikinsh/gentelella",
+  "_release": "a7531b18f0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a7531b18f07abe8345cd278133630f749de527a9"
+  },
+  "_source": "https://github.com/puikinsh/gentelella.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/puikinsh/gentelella.git",
+  "_direct": true
+}

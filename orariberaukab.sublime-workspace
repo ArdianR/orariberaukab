@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"urlTemplates"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"get",
+				"getPage"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"d",
+				"displayname"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"frma",
+				"frmanggota"
+			],
+			[
+				"pro",
+				"profesi"
+			],
+			[
+				"ser",
+				"search"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"ro",
+				"rootScope"
+			],
+			[
+				"error",
+				"errorcode"
+			],
+			[
+				"jwt",
+				"jwtauth"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"a",
+				"anggota"
+			],
+			[
+				"c",
+				"caption"
+			],
+			[
+				"l",
+				"layout"
+			],
+			[
+				"Res",
+				"Response::make	Create a Custom Response"
+			],
+			[
+				"Req",
+				"Request::ajax	Determine if the request is the result of an AJAX call."
+			],
+			[
+				"D",
+				"Datatables"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"Sc",
+				"Schema::drop	Drop an existing database table"
+			],
+			[
+				"Sche",
+				"Schema::create-table	Create new table"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Aut",
+				"Auth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/index2.blade.php",
+			"settings":
+			{
+				"buffer_size": 4722,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/controllers/listAnggotaController.js",
+			"settings":
+			{
+				"buffer_size": 4690,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/controllers/frmAnggotaController.js",
+			"settings":
+			{
+				"buffer_size": 4137,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/templates/listanggota.html",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/templates/frmAnggota.html",
+			"settings":
+			{
+				"buffer_size": 12321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AnggotaController.php",
+			"settings":
+			{
+				"buffer_size": 4483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app2/src/templates/tempatLahir.html",
+			"settings":
+			{
+				"buffer_size": 1104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/controllers/tempatLahirController.js",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/templates/deleteModal.html",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/controllers/deleteController.js",
+			"settings":
+			{
+				"buffer_size": 741,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/module.js",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/templates/partials/sidebar.html",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/index.html",
+			"settings":
+			{
+				"buffer_size": 2682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app2/src/js/routes.js",
+			"settings":
+			{
+				"buffer_size": 2961,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 847,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AuthenticateController.php",
+			"settings":
+			{
+				"buffer_size": 2569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: input",
+				"Snippet: input - button"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan Command"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/laragon/www/orariberaukab/public/app2/dist/lib/fonts/glyphicons-halflings-regular.woff2",
+		"/C/laragon/www/orariberaukab/public/app2/dist/lib/fonts/fontawesome-webfont.woff2",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/tempatLahir.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/tempatLahirController.js",
+		"/C/laragon/www/orariberaukab/public/app2/gulpfile.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/routes.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/auth.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/module.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/csselect.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/components/custom.css",
+		"/C/laragon/www/orariberaukab/public/app2/src/components/rdash-ui/dist/css/rdash.css",
+		"/C/laragon/www/orariberaukab/public/app2/src/components/smart-table-sticky-header/stStickyHeader.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/components/angular/angular.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/listanggota.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/registerController.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/sideBarController.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/partials/header.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/headerController.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/authController.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/index.html",
+		"/C/laragon/www/orariberaukab/public/app2/dist/index.html",
+		"/C/laragon/www/orariberaukab/public/app2/dist/js/orari.min.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/partials/sidebar.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/sidebarController.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/sidebar.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/templates/registerView.html",
+		"/C/laragon/www/orariberaukab/app/Http/routes.php",
+		"/C/laragon/www/orariberaukab/public/bower_components/gentelella/production/css/custom.css",
+		"/C/laragon/www/orariberaukab/public/app/views/authView.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/index3.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/components/login.css",
+		"/C/laragon/www/orariberaukab/resources/views/index.blade.php",
+		"/C/laragon/www/orariberaukab/public/app2/bower.json",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/alert-ctrl.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/controllers/master-ctrl.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/index2.html",
+		"/C/laragon/www/orariberaukab/resources/views/index2.blade.php",
+		"/C/laragon/www/orariberaukab/app/Http/Controllers/AuthenticateController.php",
+		"/C/laragon/www/orariberaukab/public/app/controller/authController.js",
+		"/C/laragon/www/orariberaukab/public/app/app.js",
+		"/C/laragon/www/orariberaukab/public/bower_components/gentelella/production/empty.html",
+		"/C/laragon/www/orariberaukab/public/app/controller/bodyController.js",
+		"/C/laragon/www/orariberaukab/public/app/views/homeView.html",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/loading.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/widget-body.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/widget-footer.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/widget-header.js",
+		"/C/laragon/www/orariberaukab/public/app2/src/js/directives/widget.js",
+		"/C/laragon/www/orariberaukab/public/bower_components/satellizer/satellizer.js",
+		"/C/laragon/www/orariberaukab/composer.json",
+		"/C/laragon/www/orariberaukab/public/bower_components/angular/bower.json",
+		"/C/laragon/www/orariberaukab/public/bower_components/gentelella/production/index.html",
+		"/C/laragon/www/orariberaukab/public/app/controller/userController.js",
+		"/C/laragon/www/orariberaukab/public/app/controller/registerController.js",
+		"/C/laragon/www/orariberaukab/public/app/views/registerView.html",
+		"/C/laragon/www/orariberaukab/public/bower_components/gentelella/production/login.html",
+		"/C/laragon/www/orariberaukab/app/Exceptions/Handler.php",
+		"/C/laragon/www/orariberaukab/app/Http/Requests/RegisterRequest.php",
+		"/C/laragon/www/orariberaukab/public/package.json",
+		"/C/laragon/www/orariberaukab/public/Gruntfile.js",
+		"/C/laragon/www/orariberaukab/public/bower_components/gentelella/production/css/icheck/flat/green.css",
+		"/C/laragon/www/orariberaukab/public/.htaccess",
+		"/C/laragon/www/orariberaukab/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/orariberaukab/config/debugbar.php",
+		"/C/laragon/www/orariberaukab/app/Http/Kernel.php",
+		"/C/laragon/www/orariberaukab/public/app/views/userView.html",
+		"/C/laragon/www/orariberaukab/config/app.php",
+		"/C/laragon/www/orariberaukab/.env",
+		"/C/laragon/www/orariberaukab/resources/views/frmanggota.blade.php",
+		"/C/laragon/www/orariberaukab/resources/views/daftaranggota.blade.php",
+		"/C/laragon/www/orariberaukab/app/Http/Controllers/AnggotaController.php",
+		"/C/laragon/www/orariberaukab/resources/views/home.blade.php",
+		"/C/laragon/www/orariberaukab/resources/views/layouts/default.blade.php",
+		"/C/laragon/www/orariberaukab/resources/views/layouts/plane.blade.php",
+		"/C/laragon/www/orariberaukab/app/Http/Controllers/Auth/AuthController.php",
+		"/C/laragon/www/orariberaukab/resources/views/login.blade.php",
+		"/C/laragon/www/orariberaukab/app/Http/Middleware/Authenticate.php",
+		"/C/laragon/www/orariberaukab/storage/logs/laravel.log",
+		"/C/laragon/www/orari/database/migrations/2016_02_10_171908_update_inf_lokasi.php",
+		"/C/laragon/www/orari/resources/views/panel.blade.php",
+		"/C/laragon/www/orari/resources/views/widgets/panel.blade.php",
+		"/C/laragon/www/orari/resources/views/auth/login.blade.php",
+		"/C/laragon/www/orari/resources/views/buttons.blade.php",
+		"/C/laragon/www/orari/resources/views/widgets/table.blade.php",
+		"/C/laragon/www/orari/resources/views/table.blade.php",
+		"/C/laragon/www/orari/resources/views/layouts/plane.blade.php",
+		"/C/laragon/www/orari/app/Http/routes.php",
+		"/C/laragon/www/orari/app/Http/Middleware/Authenticate.php",
+		"/C/laragon/www/orari/app/Http/Controllers/HomeController.php",
+		"/C/laragon/www/orari/resources/views/widgets/button.blade.php",
+		"/C/laragon/www/orari/config/app.php",
+		"/C/laragon/www/orari/database/migrations/2016_02_05_164144_create_anggota_table.php",
+		"/C/laragon/www/orari/composer.json",
+		"/C/laragon/www/orari/database/seeds/InfLokasiTableSeeder.php",
+		"/C/laragon/www/orari/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/orari/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/orari/.env",
+		"/C/laragon/www/orari/resources/views/widgets/alert.blade.php",
+		"/C/laragon/www/orari/resources/views/notifications.blade.php",
+		"/C/laragon/www/orari/app/Http/Controllers/Auth/AuthController.php",
+		"/C/laragon/www/orari/resources/views/layouts/dashboard.blade.php",
+		"/C/laragon/www/orari/app/Http/Controllers/WelcomeController.php",
+		"/C/laragon/www/orari/resources/views/login.blade.php",
+		"/C/laragon/www/orari/app/Console/Kernel.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app2/src",
+			");\n",
+			"DATEPICKER",
+			"sidebar",
+			"active",
+			"templateUrl",
+			"app",
+			"app2/src",
+			".form",
+			"form",
+			"wrapper",
+			"rdWidget",
+			"Widget",
+			"rdWidget",
+			"toogale",
+			"getPayload",
+			"fromUser",
+			"byCredentials",
+			"Regular notifications",
+			"loginUrl",
+			"fadeInLeft",
+			"register",
+			"local.login",
+			"icon",
+			"fa-star",
+			"user",
+			"logout"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 17,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/index2.blade.php",
+					"settings":
+					{
+						"buffer_size": 4722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/app2/src/js/controllers/listAnggotaController.js",
+					"settings":
+					{
+						"buffer_size": 4690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2847,
+								2847
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1368.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/app2/src/js/controllers/frmAnggotaController.js",
+					"settings":
+					{
+						"buffer_size": 4137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3909,
+								3909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1767.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/app2/src/templates/listanggota.html",
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/app2/src/templates/frmAnggota.html",
+					"settings":
+					{
+						"buffer_size": 12321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8959,
+								8959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2622.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/AnggotaController.php",
+					"settings":
+					{
+						"buffer_size": 4483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3912,
+								3912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/app2/src/templates/tempatLahir.html",
+					"settings":
+					{
+						"buffer_size": 1104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/app2/src/js/controllers/tempatLahirController.js",
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/app2/src/templates/deleteModal.html",
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "public/app2/src/js/controllers/deleteController.js",
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/app2/src/js/module.js",
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 786.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "public/app2/src/templates/partials/sidebar.html",
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "public/app2/src/index.html",
+					"settings":
+					{
+						"buffer_size": 2682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2160,
+								2160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "public/app2/src/js/routes.js",
+					"settings":
+					{
+						"buffer_size": 2961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "resources/views/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/Http/Controllers/AuthenticateController.php",
+					"settings":
+					{
+						"buffer_size": 2569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": ".env",
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true
+}
